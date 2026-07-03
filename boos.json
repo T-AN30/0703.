@@ -272,7 +272,7 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider":"",
+  "spider":"./jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b",
   "wallpaper": ""
   
 }
